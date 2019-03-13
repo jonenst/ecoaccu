@@ -20,7 +20,7 @@ class App extends Component {
 
   componentDidMount() {
     //fetch("https://api.electricitymap.org/v3/marginal-carbon-intensity/forecast?zone=FR", { headers: { "auth-token": "XXXXXXXXX" } } )
-    fetch("http://le-simplex.mooo.com:54321/")
+    fetch("https://le-simplex.mooo.com:8443/")
       .then(res => res.json())
       .then(
         (result) => {
