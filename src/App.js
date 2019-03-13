@@ -85,8 +85,7 @@ class App extends Component {
         idx = i;
       }
     }
-    var chargestart = idx;
-    console.log(chargestart);
+    var chargestart = idx-2;
     var fillColor = [];
     var strokeColor = [];
     for (var i=0;i<24;i++) {
