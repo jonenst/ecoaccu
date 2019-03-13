@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ecoaccu/precache-manifest.929291a71ac6e72b6b75d85acf088e95.js"
+  "/ecoaccu/precache-manifest.7324a91de5c4b7762b53581b619e0d54.js"
 );
 
 workbox.clientsClaim();

@@ -102,6 +102,7 @@ class App extends Component {
             labels: dates,
             datasets: [
                 {
+                    label: "",
                     fillColor: fillColor ,
                     strokeColor: strokeColor,
                     data: data
@@ -169,6 +170,7 @@ scaleShowGridLines : false,
         </Row>
         <Row>
           <Col>
+	    <p>marginal carbon intensity (g/kWh)</p>
             <BarChart data={chartData} options={chartOptions} width="600" height="250"/>
           </Col>
         </Row>

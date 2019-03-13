@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/ecoaccu/static/js/runtime~main.cad15769.js"
   },
   {
-    "revision": "f44423cdcc1f7be23446",
-    "url": "/ecoaccu/static/js/main.b2922a5c.chunk.js"
+    "revision": "ede1e5c4fcffd0c2c3a5",
+    "url": "/ecoaccu/static/js/main.4ea4a483.chunk.js"
   },
   {
     "revision": "3a06d567725789d19200",
     "url": "/ecoaccu/static/js/2.81e718cf.chunk.js"
   },
   {
-    "revision": "f44423cdcc1f7be23446",
+    "revision": "ede1e5c4fcffd0c2c3a5",
     "url": "/ecoaccu/static/css/main.b737024f.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/ecoaccu/static/css/2.e6f0f542.chunk.css"
   },
   {
-    "revision": "1bbcf6a58fe0a70593ba83d0493496b3",
+    "revision": "1f0063caf827d0b3deefe9d8051c09fe",
     "url": "/ecoaccu/index.html"
   }
 ];
