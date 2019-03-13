@@ -2,6 +2,7 @@
   "name": "ecoaccu",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://ecoaccu.github.io/",
   "dependencies": {
     "bootstrap": "^4.2.1",
     "chart.js": "^1.1.1",
